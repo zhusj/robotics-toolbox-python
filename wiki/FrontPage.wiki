@@ -1,6 +1,6 @@
 = Introduction =
 
-The first version of the Python toolbox is out!
+The first version of the Python toolbox is out!  [http://robotics-toolbox-python.googlecode.com/files/pytb.zip Download] the zip file of HTML documentation.
 
 The Python version shares much of the syntax of the Matlab version.  Linear algebra is handled using the [http://www.scipy.org/Documentation NumPy] library.  The NumPy matrix type is the default used, but most functions have been written to vector argument to be given as an array, matrix or a simple native list.  Python named arguments are used in preference to variable length unnamed argument lists.
 
