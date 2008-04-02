@@ -37,6 +37,12 @@ matrix([[ 0.98006658,  0.        ,  0.19866933],
 >>> 
 }}}
 
+== Getting the toolbox ==
+
+The code and the HTML documentation are available as separate zip files from the 
+[http://code.google.com/p/robotics-toolbox-python/downloads/list Download] tab.
+
+You can browse the source via the Source tab.
 
 == Other versions of the toolbox ==
 
